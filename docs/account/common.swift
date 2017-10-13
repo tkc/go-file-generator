@@ -1,4 +1,0 @@
-
-
- let ACCOUNT = "account";
-
