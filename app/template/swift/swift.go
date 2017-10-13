@@ -35,7 +35,5 @@ func (s Swift) Generate() string {
 const fileName = "common.swift"
 
 const template = `
-
  let ACCOUNT = "%s";
-
 `
