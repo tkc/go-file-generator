@@ -1,0 +1,13 @@
+
+app: local
+port: :3000
+account: account_test
+
+server :
+  url : 127.0.0.1
+
+database:
+  ip: 127.0.0.1
+  name: job
+  user_name: root
+  password: secret
