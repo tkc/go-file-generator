@@ -9,11 +9,6 @@ import (
 	"github/tkc/go-file-generator/app/helper/yaml"
 )
 
-type InputParam struct {
-	author string
-	info   string
-}
-
 var (
 	configName = flag.String("c", "default", "help message for s option")
 )

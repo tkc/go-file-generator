@@ -32,11 +32,10 @@ func (a Android) Generate() string {
 	)
 }
 
-const fileName = "common.jave"
+const fileName = "common.java"
 
 const template = `
 public class Common {
  public static final String ACCOUNT = "%s";
 }
-
 `
